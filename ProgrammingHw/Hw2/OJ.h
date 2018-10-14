@@ -164,7 +164,8 @@ void DC(vector<Point> &points);
 
 void solve(){
     vector<Point> points = oj.getInput();
-    DC(points); 
+    //DC(points); 
+    naive(points);
     oj.verify();
 }
 

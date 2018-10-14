@@ -1,9 +1,21 @@
 #include "OJ.h"
-
 #include <bits/stdc++.h>
-bool update(int n, vector<Point> points);
+using namespace std;
+//Preguntas
+//De donde alimentan la data?
+//
+bool update(int n, vector<Point> points){
+    //First: Check for intersections
+    /*Line curPoint;
+    //create iterator
+    vector<Point>::iterator it = points.begin();
+    while(it != points.end()){
+        
+    }*/
+    return false;//TODO change this false for something appropiate
+}
 // check whether current matching have intersection.
-// remove the intersection by swap two line and return 1
+// remove the intersectihttps://web.whatsapp.com/on by swap two line and return 1
 // if no intersection return 0
 
 void partition( vector<Point> &points,
@@ -22,8 +34,6 @@ void partition( vector<Point> &points,
 // A = { (0,0)|(1,1) } // line (0,0) -> (1,1)
 // B = { (1,2),(7,10) | (3,4),(6,9) }
 // C = { (2,1),(10,7) | (4,3),(9,6) }
-using namespace std;
-
 void naive(vector<Point> &points){
     int n = (int) points.size()/2;
     do{
@@ -34,12 +44,12 @@ void naive(vector<Point> &points){
 
 void DC(vector<Point> &points){
     // boundary case (naive) ...
-
+/*
     vector<Point> sub1, sub2;
     partition(points,sub1,sub2);
     oj.set_match(sub1);
     oj.set_match(sub2);
     display();
-
+*/
     // D&C ...
 }
