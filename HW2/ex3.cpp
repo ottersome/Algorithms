@@ -37,7 +37,7 @@ bool build(){
 				if(top == possible){
 					cout << "Two unequeal subsets can equal : "<<top<<endl;
 					calcs[i][j] = max(top,possible);
-					return true;
+					//return true;
 				}else{
 					calcs[i][j] = max(top,possible);
 				}
