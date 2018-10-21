@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 #include <math.h>
 #include <cstdio>
 
@@ -26,4 +27,17 @@ int main(){
 
 
 	return 0;
+=======
+#include <cstdio>
+using namespace std;
+
+int solve(int position,int number){
+
+    if(
+    return 0;
+}
+int main(){
+
+    return 0;
+>>>>>>> 874e02426fb05665d7a694a3147ddbab2e7fc95c
 }
