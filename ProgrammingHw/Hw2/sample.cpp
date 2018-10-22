@@ -4,14 +4,18 @@ using namespace std;
 //Preguntas
 //De donde alimentan la data?
 //
+
+//este n es el index hasta la ultima rata
 bool update(int n, vector<Point> points){
     //First: Check for intersections
-    /*Line curPoint;
+    Line curPoint;
     //create iterator
-    vector<Point>::iterator it = points.begin();
-    while(it != points.end()){
-        
-    }*/
+    vector<Line> lines(n);
+    for(int = 0;i<n;i++){
+    	lines[i] = {points[i],points[n+match[i]]-points[i]};
+    }
+    for(int i=0
+    //que podemos tratar primero.... como es naive lo que podemos hacer es 
     return false;//TODO change this false for something appropiate
 }
 // check whether current matching have intersection.
