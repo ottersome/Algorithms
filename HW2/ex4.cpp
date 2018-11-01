@@ -1,6 +1,8 @@
+#include <iostream>
 #include <cstdio>
 #include <cstring>
-#define N 23//this means until n = <Your input Number>
+//THIS IS THE INPUT N *****************************
+#define N 13//this means until n = <Your input Number>
 using namespace std;
 //so for this algorithm we must try every possible difference in
 //the array of primes, for each prime and scan O(n/logn) primes

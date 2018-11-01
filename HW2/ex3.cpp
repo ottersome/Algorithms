@@ -2,8 +2,8 @@
 #include <math.h>
 #include <algorithm>
 #include <cstdio>
-#define S  18
-#define N  6
+#define S  18 //Max sum 
+#define N  6 //amount of elements
 using namespace std;
 int calcs[N+1][S+1];
 int num[] = {0,1,2,4,5,6};
@@ -15,8 +15,8 @@ void printArray(){
 		printf("[%5d]",i);
 	}
 	cout<<endl;
-	for(int i = 0;i<N+1;i++){
-		for(int j = 0;j<S+1;j++){
+	for(int i = 0;i<N;i++){
+		for(int j = 0;j<S;j++){
 			if(j==0)
 				printf("[%5d]",num[i]);
 			printf("[%5d]",calcs[i][j]);
@@ -26,7 +26,7 @@ void printArray(){
 }
 bool build(){
 	for(int i = 0; i < sizeo;i++){
-		for(int j = 0;j<18;j++){
+		for(int j = 0;j<S;j++){
 			if(i == 0 || j == 0){
 				calcs[i][j] = 0;
 			}else if(num[i] > j){

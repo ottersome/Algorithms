@@ -1,0 +1,1428 @@
+Please enter your numbers below:
+Counter is : 0
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(667964526,509032192)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(428228290,469156764)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(512029006,704547119)
+Swap between new and successor
+New.y is 414134418, and successor.y is 940722881
+Drawing
+Switching indeces i=16,j=26
+	 (x,y)=512029006,704547119 and
+	 (x,y)=4911352,940722881
+Case number : 0
+Counter is : 1
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(667964526,509032192)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(362680205,215924949)->(98616281,660217913)
+Swap between new and predecessor
+New.y is 660217913, and predecessor.y is 381676521
+Insideo
+Log counter pt2: 3
+Switching indeces i=17,j=24
+	 (x,y)=98616281,660217913 and
+	 (x,y)=2386512,381676521
+Case number : 1
+Counter is : 2
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(667964526,509032192)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(784736700,298907252)
+Swap between new and predecessor
+New.y is 772951502, and predecessor.y is 660217913
+Insideo
+Log counter pt2: 5
+Switching indeces i=20,j=24
+	 (x,y)=784736700,298907252 and
+	 (x,y)=98616281,660217913
+Case number : 2
+Counter is : 3
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(415444792,911291150)
+Swap between new and successor
+New.y is 53083855, and successor.y is 343659005
+Drawing
+Switching indeces i=29,j=28
+	 (x,y)=415444792,911291150 and
+	 (x,y)=436760272,530794461
+Case number : 3
+Counter is : 4
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(877013043,704210919)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(999546675,690154874)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(890553822,650825394)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(954860156,189356264)
+Fuera de clausa
+Verifying y coords : 509032192,509032192
+pointloc index : 17,(667964526,509032192), from : is(667964526,509032192)->(784736700,298907252)
+Fuera de clausa
+Verifying y coords : 984303328,984303328
+pointloc index : 18,(709135764,984303328), from : is(709135764,984303328)->(974645883,941846491)
+Fuera de clausa
+Verifying y coords : 901019267,901019267
+pointloc index : 19,(769950837,901019267), from : is(867330217,99978089)->(769950837,901019267)
+Fuera de clausa
+Verifying y coords : 298907252,298907252
+pointloc index : 20,(784736700,298907252), from : is(667964526,509032192)->(784736700,298907252)
+Deleting i with y(key)=509032192
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+Deleting n+i with y(key)=298907252
+	Entering with key: 298907252
+		Continues...
+	Entering with key: 298907252
+		Continues...
+	Entering with key: 298907252
+		Continues...
+	Entering with key: 298907252
+		Continues...
+Deleting:  9,(667964526,509032192), and: (784736700,298907252)
+Our indeces are originally : 9 and 24Pointloc height : 298907252, either height: y1:509032192, y2:298907252
+Fuera de clausa
+Verifying y coords : 560246937,560246937
+pointloc index : 21,(802959926,560246937), from : is(802959926,560246937)->(303643261,911150758)
+Swap between predecessor and successor
+pre.y is 344678063, and successor.y is 901019267
+Switching indeces i=27,j=21
+	 (x,y)=954860156,189356264 and
+	 (x,y)=769950837,901019267
+Case number : 4
+Counter is : 5
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(877013043,704210919)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(999546675,690154874)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(890553822,650825394)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(769950837,901019267)
+Swap between new and predecessor
+New.y is 344678063, and predecessor.y is 268434231
+Insideo
+Log counter pt2: 16
+Switching indeces i=27,j=19
+	 (x,y)=769950837,901019267 and
+	 (x,y)=534938342,268434231
+Case number : 5
+Counter is : 6
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(877013043,704210919)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(999546675,690154874)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(631539394,344678063)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(534938342,268434231)
+Deleting i with y(key)=344678063
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=268434231
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+Deleting:  12,(631539394,344678063), and: (534938342,268434231)
+Our indeces are originally : 12 and 27Pointloc height : 344678063, either height: y1:344678063, y2:268434231
+Fuera de clausa
+Verifying y coords : 509032192,509032192
+pointloc index : 17,(667964526,509032192), from : is(667964526,509032192)->(784736700,298907252)
+Swap between new and predecessor
+New.y is 509032192, and predecessor.y is 73629173
+Insideo
+Log counter pt2: 17
+Switching indeces i=24,j=18
+	 (x,y)=784736700,298907252 and
+	 (x,y)=234468145,73629173
+Case number : 6
+Counter is : 7
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(667964526,509032192)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(999546675,690154874)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(631539394,344678063)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(534938342,268434231)
+Deleting i with y(key)=344678063
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=268434231
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+Deleting:  12,(631539394,344678063), and: (534938342,268434231)
+Our indeces are originally : 12 and 27Pointloc height : 344678063, either height: y1:344678063, y2:268434231
+Fuera de clausa
+Verifying y coords : 509032192,509032192
+pointloc index : 17,(667964526,509032192), from : is(667964526,509032192)->(234468145,73629173)
+Deleting i with y(key)=509032192
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+Deleting n+i with y(key)=73629173
+	Entering with key: 73629173
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  9,(667964526,509032192), and: (234468145,73629173)
+Our indeces are originally : 9 and 24Pointloc height : 509032192, either height: y1:509032192, y2:73629173
+Fuera de clausa
+Verifying y coords : 984303328,984303328
+pointloc index : 18,(709135764,984303328), from : is(709135764,984303328)->(974645883,941846491)
+Fuera de clausa
+Verifying y coords : 901019267,901019267
+pointloc index : 19,(769950837,901019267), from : is(890553822,650825394)->(769950837,901019267)
+Fuera de clausa
+Verifying y coords : 298907252,298907252
+pointloc index : 20,(784736700,298907252), from : is(877013043,704210919)->(784736700,298907252)
+Swap between new and predecessor
+New.y is 298907252, and predecessor.y is 45796876
+Insideo
+Log counter pt2: 20
+Switching indeces i=18,j=22
+	 (x,y)=784736700,298907252 and
+	 (x,y)=449892051,45796876
+Case number : 7
+Counter is : 8
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(667964526,509032192)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(877013043,704210919)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(631539394,344678063)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(534938342,268434231)
+Deleting i with y(key)=344678063
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=268434231
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+Deleting:  12,(631539394,344678063), and: (534938342,268434231)
+Our indeces are originally : 12 and 27Pointloc height : 344678063, either height: y1:344678063, y2:268434231
+Fuera de clausa
+Verifying y coords : 509032192,509032192
+pointloc index : 17,(667964526,509032192), from : is(667964526,509032192)->(234468145,73629173)
+Deleting i with y(key)=509032192
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+Deleting n+i with y(key)=73629173
+	Entering with key: 73629173
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  9,(667964526,509032192), and: (234468145,73629173)
+Our indeces are originally : 9 and 24Pointloc height : 509032192, either height: y1:509032192, y2:73629173
+Fuera de clausa
+Verifying y coords : 984303328,984303328
+pointloc index : 18,(709135764,984303328), from : is(709135764,984303328)->(974645883,941846491)
+Fuera de clausa
+Verifying y coords : 901019267,901019267
+pointloc index : 19,(769950837,901019267), from : is(890553822,650825394)->(769950837,901019267)
+Swap between new and predecessor
+New.y is 901019267, and predecessor.y is 45796876
+Insideo
+Log counter pt2: 19
+Switching indeces i=19,j=18
+	 (x,y)=769950837,901019267 and
+	 (x,y)=449892051,45796876
+Case number : 8
+Counter is : 9
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(667964526,509032192)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(890553822,650825394)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(631539394,344678063)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(534938342,268434231)
+Deleting i with y(key)=344678063
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=268434231
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+Deleting:  12,(631539394,344678063), and: (534938342,268434231)
+Our indeces are originally : 12 and 27Pointloc height : 344678063, either height: y1:344678063, y2:268434231
+Fuera de clausa
+Verifying y coords : 509032192,509032192
+pointloc index : 17,(667964526,509032192), from : is(667964526,509032192)->(234468145,73629173)
+Deleting i with y(key)=509032192
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+Deleting n+i with y(key)=73629173
+	Entering with key: 73629173
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  9,(667964526,509032192), and: (234468145,73629173)
+Our indeces are originally : 9 and 24Pointloc height : 509032192, either height: y1:509032192, y2:73629173
+Fuera de clausa
+Verifying y coords : 984303328,984303328
+pointloc index : 18,(709135764,984303328), from : is(709135764,984303328)->(974645883,941846491)
+Fuera de clausa
+Verifying y coords : 901019267,901019267
+pointloc index : 19,(769950837,901019267), from : is(877013043,704210919)->(769950837,901019267)
+Fuera de clausa
+Verifying y coords : 298907252,298907252
+pointloc index : 20,(784736700,298907252), from : is(999546675,690154874)->(784736700,298907252)
+Fuera de clausa
+Verifying y coords : 560246937,560246937
+pointloc index : 21,(802959926,560246937), from : is(802959926,560246937)->(303643261,911150758)
+Deleting i with y(key)=560246937
+	Entering with key: 560246937
+		Continues...
+	Entering with key: 560246937
+		Continues...
+	Entering with key: 560246937
+		Continues...
+Deleting n+i with y(key)=911150758
+	Entering with key: 911150758
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  10,(802959926,560246937), and: (303643261,911150758)
+Our indeces are originally : 10 and 25Pointloc height : 560246937, either height: y1:560246937, y2:911150758
+Fuera de clausa
+Verifying y coords : 99978089,99978089
+pointloc index : 22,(867330217,99978089), from : is(867330217,99978089)->(954860156,189356264)
+Fuera de clausa
+Verifying y coords : 360679511,360679511
+pointloc index : 23,(873798274,360679511), from : is(873798274,360679511)->(908966112,868538256)
+Swap between new and predecessor
+New.y is 360679511, and predecessor.y is 298907252
+Insideo
+Log counter pt2: 23
+Switching indeces i=23,j=22
+	 (x,y)=908966112,868538256 and
+	 (x,y)=784736700,298907252
+Case number : 9
+Counter is : 10
+Verifying y coords : 381676521,381676521
+pointloc index : 0,(2386512,381676521), from : is(362680205,215924949)->(2386512,381676521)
+Fuera de clausa
+Verifying y coords : 940722881,940722881
+pointloc index : 1,(4911352,940722881), from : is(45767434,414134418)->(4911352,940722881)
+Fuera de clausa
+Verifying y coords : 414134418,414134418
+pointloc index : 2,(45767434,414134418), from : is(45767434,414134418)->(4911352,940722881)
+Deleting i with y(key)=414134418
+	Entering with key: 414134418
+		Continues...
+	Entering with key: 940722881
+		Continues...
+Deleting n+i with y(key)=940722881
+	Entering with key: 940722881
+		Continues...
+Deleting:  1,(45767434,414134418), and: (4911352,940722881)
+Our indeces are originally : 1 and 16Pointloc height : 414134418, either height: y1:414134418, y2:940722881
+Fuera de clausa
+Verifying y coords : 660217913,660217913
+pointloc index : 3,(98616281,660217913), from : is(214449366,772951502)->(98616281,660217913)
+Fuera de clausa
+Verifying y coords : 343659005,343659005
+pointloc index : 4,(167083865,343659005), from : is(167083865,343659005)->(415444792,911291150)
+Fuera de clausa
+Verifying y coords : 772951502,772951502
+pointloc index : 5,(214449366,772951502), from : is(214449366,772951502)->(98616281,660217913)
+Deleting i with y(key)=772951502
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+	Entering with key: 772951502
+		Continues...
+Deleting n+i with y(key)=660217913
+	Entering with key: 660217913
+		Continues...
+	Entering with key: 660217913
+		Continues...
+Deleting:  5,(214449366,772951502), and: (98616281,660217913)
+Our indeces are originally : 5 and 20Pointloc height : 772951502, either height: y1:772951502, y2:660217913
+Fuera de clausa
+Verifying y coords : 53083855,53083855
+pointloc index : 6,(219645235,53083855), from : is(219645235,53083855)->(436760272,530794461)
+Fuera de clausa
+Verifying y coords : 73629173,73629173
+pointloc index : 7,(234468145,73629173), from : is(667964526,509032192)->(234468145,73629173)
+Fuera de clausa
+Verifying y coords : 911150758,911150758
+pointloc index : 8,(303643261,911150758), from : is(802959926,560246937)->(303643261,911150758)
+Fuera de clausa
+Verifying y coords : 215924949,215924949
+pointloc index : 9,(362680205,215924949), from : is(362680205,215924949)->(2386512,381676521)
+Deleting i with y(key)=215924949
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+	Entering with key: 215924949
+		Continues...
+Deleting n+i with y(key)=381676521
+	Entering with key: 381676521
+		Continues...
+	Entering with key: 381676521
+		Continues...
+Deleting:  2,(362680205,215924949), and: (2386512,381676521)
+Our indeces are originally : 2 and 17Pointloc height : 215924949, either height: y1:215924949, y2:381676521
+Fuera de clausa
+Verifying y coords : 911291150,911291150
+pointloc index : 10,(415444792,911291150), from : is(167083865,343659005)->(415444792,911291150)
+Deleting i with y(key)=343659005
+	Entering with key: 343659005
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=911291150
+	Entering with key: 911291150
+		Continues...
+	Entering with key: 911291150
+		Continues...
+Deleting:  13,(167083865,343659005), and: (415444792,911291150)
+Our indeces are originally : 13 and 28Pointloc height : 911291150, either height: y1:343659005, y2:911291150
+Fuera de clausa
+Verifying y coords : 469156764,469156764
+pointloc index : 11,(428228290,469156764), from : is(428228290,469156764)->(512029006,704547119)
+Fuera de clausa
+Verifying y coords : 530794461,530794461
+pointloc index : 12,(436760272,530794461), from : is(219645235,53083855)->(436760272,530794461)
+Deleting i with y(key)=53083855
+	Entering with key: 53083855
+		Continues...
+	Entering with key: 53083855
+		Continues...
+Deleting n+i with y(key)=530794461
+	Entering with key: 530794461
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  14,(219645235,53083855), and: (436760272,530794461)
+Our indeces are originally : 14 and 29Pointloc height : 530794461, either height: y1:53083855, y2:530794461
+Fuera de clausa
+Verifying y coords : 45796876,45796876
+pointloc index : 13,(449892051,45796876), from : is(890553822,650825394)->(449892051,45796876)
+Fuera de clausa
+Verifying y coords : 704547119,704547119
+pointloc index : 14,(512029006,704547119), from : is(428228290,469156764)->(512029006,704547119)
+Deleting i with y(key)=469156764
+	Entering with key: 469156764
+		Continues...
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 704547119
+		Continues...
+Deleting n+i with y(key)=704547119
+	Entering with key: 704547119
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  11,(428228290,469156764), and: (512029006,704547119)
+Our indeces are originally : 11 and 26Pointloc height : 704547119, either height: y1:469156764, y2:704547119
+Fuera de clausa
+Verifying y coords : 268434231,268434231
+pointloc index : 15,(534938342,268434231), from : is(631539394,344678063)->(534938342,268434231)
+Fuera de clausa
+Verifying y coords : 344678063,344678063
+pointloc index : 16,(631539394,344678063), from : is(631539394,344678063)->(534938342,268434231)
+Deleting i with y(key)=344678063
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 344678063
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting n+i with y(key)=268434231
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+	Entering with key: 268434231
+		Continues...
+Deleting:  12,(631539394,344678063), and: (534938342,268434231)
+Our indeces are originally : 12 and 27Pointloc height : 344678063, either height: y1:344678063, y2:268434231
+Fuera de clausa
+Verifying y coords : 509032192,509032192
+pointloc index : 17,(667964526,509032192), from : is(667964526,509032192)->(234468145,73629173)
+Deleting i with y(key)=509032192
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+	Entering with key: 509032192
+		Continues...
+Deleting n+i with y(key)=73629173
+	Entering with key: 73629173
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  9,(667964526,509032192), and: (234468145,73629173)
+Our indeces are originally : 9 and 24Pointloc height : 509032192, either height: y1:509032192, y2:73629173
+Fuera de clausa
+Verifying y coords : 984303328,984303328
+pointloc index : 18,(709135764,984303328), from : is(709135764,984303328)->(974645883,941846491)
+Fuera de clausa
+Verifying y coords : 901019267,901019267
+pointloc index : 19,(769950837,901019267), from : is(877013043,704210919)->(769950837,901019267)
+Fuera de clausa
+Verifying y coords : 298907252,298907252
+pointloc index : 20,(784736700,298907252), from : is(873798274,360679511)->(784736700,298907252)
+Fuera de clausa
+Verifying y coords : 560246937,560246937
+pointloc index : 21,(802959926,560246937), from : is(802959926,560246937)->(303643261,911150758)
+Deleting i with y(key)=560246937
+	Entering with key: 560246937
+		Continues...
+	Entering with key: 560246937
+		Continues...
+	Entering with key: 560246937
+		Continues...
+Deleting n+i with y(key)=911150758
+	Entering with key: 911150758
+		Continues...
+	Entering with key: 911150758
+		Continues...
+Deleting:  10,(802959926,560246937), and: (303643261,911150758)
+Our indeces are originally : 10 and 25Pointloc height : 560246937, either height: y1:560246937, y2:911150758
+Fuera de clausa
+Verifying y coords : 99978089,99978089
+pointloc index : 22,(867330217,99978089), from : is(867330217,99978089)->(954860156,189356264)
+Fuera de clausa
+Verifying y coords : 360679511,360679511
+pointloc index : 23,(873798274,360679511), from : is(873798274,360679511)->(784736700,298907252)
+Deleting i with y(key)=360679511
+	Entering with key: 360679511
+		Continues...
+	Entering with key: 360679511
+		Continues...
+	Entering with key: 360679511
+		Continues...
+Deleting n+i with y(key)=298907252
+	Entering with key: 298907252
+		Continues...
+	Entering with key: 901019267
+		Continues...
+Deleting:  8,(873798274,360679511), and: (784736700,298907252)
+Our indeces are originally : 8 and 23Pointloc height : 360679511, either height: y1:360679511, y2:298907252
+Fuera de clausa
+Verifying y coords : 704210919,704210919
+pointloc index : 24,(877013043,704210919), from : is(877013043,704210919)->(769950837,901019267)
+Deleting i with y(key)=704210919
+	Entering with key: 704210919
+		Continues...
+	Entering with key: 704210919
+		Continues...
+	Entering with key: 704210919
+		Continues...
+Deleting n+i with y(key)=901019267
+	Entering with key: 901019267
+		Continues...
+	Entering with key: 984303328
+		Continues...
+Deleting:  3,(877013043,704210919), and: (769950837,901019267)
+Our indeces are originally : 3 and 18Pointloc height : 704210919, either height: y1:704210919, y2:901019267
+Fuera de clausa
+Verifying y coords : 650825394,650825394
+pointloc index : 25,(890553822,650825394), from : is(890553822,650825394)->(449892051,45796876)
+Deleting i with y(key)=650825394
+	Entering with key: 650825394
+		Continues...
+	Entering with key: 650825394
+		Continues...
+	Entering with key: 650825394
+		Continues...
+Deleting n+i with y(key)=45796876
+	Entering with key: 45796876
+		Continues...
+	Entering with key: 45796876
+		Continues...
+Deleting:  4,(890553822,650825394), and: (449892051,45796876)
+Our indeces are originally : 4 and 19Pointloc height : 650825394, either height: y1:650825394, y2:45796876
+Fuera de clausa
+Verifying y coords : 868538256,868538256
+pointloc index : 26,(908966112,868538256), from : is(999546675,690154874)->(908966112,868538256)
+Fuera de clausa
+Verifying y coords : 189356264,189356264
+pointloc index : 27,(954860156,189356264), from : is(867330217,99978089)->(954860156,189356264)
+Deleting i with y(key)=99978089
+	Entering with key: 99978089
+		Continues...
+	Entering with key: 99978089
+		Continues...
+Deleting n+i with y(key)=189356264
+	Entering with key: 189356264
+		Continues...
+	Entering with key: 189356264
+		Continues...
+Deleting:  6,(867330217,99978089), and: (954860156,189356264)
+Our indeces are originally : 6 and 21Pointloc height : 189356264, either height: y1:99978089, y2:189356264
+Fuera de clausa
+Verifying y coords : 941846491,941846491
+pointloc index : 28,(974645883,941846491), from : is(709135764,984303328)->(974645883,941846491)
+Deleting i with y(key)=984303328
+	Entering with key: 984303328
+		Continues...
+	Entering with key: 984303328
+		Continues...
+Deleting n+i with y(key)=941846491
+	Entering with key: 941846491
+		Continues...
+Deleting:  0,(709135764,984303328), and: (974645883,941846491)
+Our indeces are originally : 0 and 15Pointloc height : 941846491, either height: y1:984303328, y2:941846491
+Fuera de clausa
+Verifying y coords : 690154874,690154874
+pointloc index : 29,(999546675,690154874), from : is(999546675,690154874)->(908966112,868538256)
+Deleting i with y(key)=690154874
+	Entering with key: 690154874
+		Continues...
+	Entering with key: 690154874
+		Continues...
+Deleting n+i with y(key)=868538256
+	Entering with key: 868538256
+		Continues...
+Deleting:  7,(999546675,690154874), and: (908966112,868538256)
+Our indeces are originally : 7 and 22Pointloc height : 690154874, either height: y1:690154874, y2:868538256
+Fuera de clausa
+Assigning now 
+QaQ

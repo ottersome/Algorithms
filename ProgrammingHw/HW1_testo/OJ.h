@@ -30,7 +30,7 @@ struct Verify{
 			}
 			return 1;
 		}
-	private:
+	private://m es el tamano del matchsize 
 		bool verify_input(int n, vector<int> &match){
 			if ( (int)match.size()!=n ) return 0;
 			vector<bool> vis(n);
@@ -51,8 +51,14 @@ class OJ{
 			return input_points;
 		}
 		void set_match(int i, int j){
-			if ( i<0 || i>=n ) return;
-			if ( j<0 || j>=n ) return;
+			if ( i<0 || i>=n ){ 
+				cout << "Ignoring this match for i" <<endl;
+				return;
+			}
+			if ( j<0 || j>=n ){ 
+				cout << "Ignoring this match for j" <<endl;
+				return;
+			}
 			match[i] = j;
 		}
 		//ok so aqui agarraamos la mitad de este vector y la primera mitad
@@ -79,6 +85,8 @@ class OJ{
 			ConvexHull(P,CH);
 		}
 		OJ(){
+			//aqui iniciamos la puta aplicacion
+			printf("Please enter your numbers below:\n");
 			auto &points = input_points;
 			cin >> n;
 			points.resize(2*n);
@@ -91,12 +99,23 @@ class OJ{
 			match = vector<int> (n);
 			for (int i=0; i<n; i++) match[i] = i;
 		}
-		void verify(){
+		void verify(){///creo que este es el ultimo cal, si te dice QaQ esque no estuvo bueno tu ingput
 			if ( !Verify().verify(n,input_points,match) ){
 				cout << "QaQ" << endl;
 				return;
 			}
 			cout << "YES" << endl;
+		}
+		void displayPoint(Point point, float r=0, float g=0, float b=0){
+			glMatrixMode(GL_PROJECTION);
+			glLoadIdentity();
+			gluOrtho2D(0.0, 1e9, 0.0, 1e9);    
+
+			glColor3f(r,g,b);
+			glPointSize(10);
+			glBegin(GL_POINTS);
+			glVertex2i (point.x+10000,point.y);    
+			glEnd();
 		}
 	private:
 		int n;
@@ -168,8 +187,7 @@ void DC(vector<Point> &points);
 
 void solve(){
 	vector<Point> points = oj.getInput();
-	//DC(points); 
-	naive(points);
+	DC(points);
 	oj.verify();
 }
 
