@@ -2,6 +2,7 @@
 #include <cstdio>
 #define N 105
 #define NEGINF -999999
+
 using namespace std;
 long long A[N][N];
 long long S[N][N];
@@ -52,6 +53,8 @@ long long path(long long A[N][N],int i,int j){
 	return S[i][j];
 }
 int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
 	initS(); 
 	cin >> sizeo;
 	for(int i = 0;i<sizeo;i++){
