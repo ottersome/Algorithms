@@ -7,6 +7,7 @@ using namespace std;
 long long A[N][N];
 long long S[N][N];
 int sizeo;
+//we could make for
 void initS(){
 	for(int i = 0;i<N;i++){
 		for(int j = 0;j<N;j++){
